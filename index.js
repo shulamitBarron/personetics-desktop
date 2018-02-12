@@ -1017,6 +1017,7 @@ let userId;
 let bank;
 const serverURL = "https://money-watch.herokuapp.com/";
 
+
 const personeticsAPIs = [
     'getInsights',
     'getInsightDetails',
