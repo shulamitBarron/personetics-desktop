@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="60px" viewBox="0 0 58 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="27.954 30.5005 27.954 0.5005 0.9541 0.5005 0.9541 30.5005 27.954 30.5005"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -1.000000)">
+            <path d="M26.1514,58.4995 C13.0974,58.4995 2.0694,46.9605 2.0694,33.3025 C2.0694,19.7495 12.2674,9.4495 25.9544,8.9705 L25.9544,35.9995 L50.2134,35.9995 C49.7484,49.2995 39.9854,58.4995 26.1514,58.4995 L26.1514,58.4995 Z M27.9544,33.9995 L27.9544,6.9995 L26.9544,6.9995 C11.6274,6.9995 0.0004,18.3045 0.0004,33.3255 C0.0004,48.0685 11.8754,60.4995 26.0124,60.4995 C41.3684,60.4995 51.9544,50.0135 51.9544,34.9995 L51.9544,33.9995 L27.9544,33.9995 Z" id="Fill-1" fill="#1070D4"></path>
+            <g id="Group-5" transform="translate(30.000000, 0.499500)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M2.9541,28.5005 L2.9541,2.8545 C16.7511,3.4465 25.3851,16.2595 25.8331,28.5005 L2.9541,28.5005 Z M1.9541,0.5005 L0.9541,0.5005 L0.9541,30.5005 L27.9541,30.5005 L27.9541,29.5005 C27.9541,15.7135 17.9501,0.5005 1.9541,0.5005 L1.9541,0.5005 Z" id="Fill-3" fill="#1070D4" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

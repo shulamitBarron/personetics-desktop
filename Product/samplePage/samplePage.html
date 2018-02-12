@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Personetics MyBank</title>
+
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- bank third party scripts -->
+    <script src="../samplePage/js/jQuery-1.7.1.min.js"></script>
+
+    <!-- personetics third party scripts -->
+    <script src="../personetics-CITI/js/personetics-vendors.min.js"></script>
+
+    <!-- personetics api -->
+    <script src="../personetics-CITI/js/personetics-api.min.js"></script>
+
+    <!-- personetics widgets -->
+    <script src="../personetics-CITI/js/personetics-widget.min.js"></script>
+
+    <!-- Personetics sample events delegate -->
+    <script src="../samplePage/js/sampleEventDelegate.js"></script>
+
+    <!-- test data -->
+    <!--<script src="js/predefinedInsights.js"></script>-->
+    <!--<script src="js/newPredefinedInsights.js"></script>-->
+    <!--<script src="js/predefinedstory.js"></script>-->
+    <!--<script src="js/predefinedteasers.js"></script>-->
+
+    <!-- personetics css -->
+    <link rel="stylesheet" type="text/css" href="../personetics-CITI/css/personetics.css">
+    
+    <!-- sample page css -->
+    <link rel="stylesheet" type="text/css" href="../samplePage/css/samplePage.css">
+
+    <script type="text/javascript" src="../samplePage/js/samplePage.js"></script>
+    <script type="text/javascript">
+        var myApp;
+        $(document).ready(function () {
+            myApp = new app();
+            myApp.startPersonetics();
+        });
+    </script>
+
+</head>
+<body>
+     <!-- Bank Container -->
+    <div id="my-bank-container">
+
+        <div id="personetics-side-bar" class="hideSideBar"></div>
+
+        <!-- Bank login and advanced Container -->
+        <div id="initPersoneticsContainer"></div>
+            
+        <!-- Personetics container where teasers are displayed -->
+        <div id="personetics-insights-container"></div>
+
+        <!-- Personetics container where story is displayed -->
+        <div id="personetics-story-container"></div>
+    </div>
+</body>
+</html>
