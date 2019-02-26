@@ -1,3 +1,10 @@
+.personetics-widgets-insights-inbox-wrapper .perso-teaser-filter-wrapper .perso-teaser-filter-tab.selected {
+  border-bottom: 0.23em solid #252525;
+}
+.personetics-widgets-insights-inbox-wrapper .perso-teaser-filter-wrapper .perso-teaser-filter-tab {
+  color: #252525;
+}
+
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
