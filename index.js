@@ -1096,7 +1096,7 @@ const banks ={
         'content-type': 'application/json',
         'token': '3dwesdlklkl67tyu89888',
         'name': 'test bank 2',
-        'lang': 'fr'
+        'lang': 'en'
     },
     "test-3":{
         'content-type': 'application/json',
